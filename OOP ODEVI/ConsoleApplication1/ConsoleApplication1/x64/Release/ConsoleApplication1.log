@@ -1,0 +1,34 @@
+﻿  Main.cpp
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Main.cpp(6,8): warning C4273: 'strftime': tutarsız dll bağlantısı
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(266,25): message : önceki 'strftime' tanımına bakın
+  Class.cpp
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(321,6): warning C4101: 'sayac': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(398,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(397,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(774,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(773,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(891,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(890,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1190,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1189,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1208,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1207,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1320,7): warning C4101: 'date_string': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1347,7): warning C4101: 'date_string': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1480,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1479,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1655,27): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1689,23): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1690,25): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1691,25): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1794,33): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1843,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1842,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1938,13): warning C4101: 'res': yerel değişken başvurusu kaldırıldı
+C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\ConsoleApplication1\Class.cpp(1937,12): warning C4101: 'row': yerel değişken başvurusu kaldırıldı
+  Kod üretiliyor
+  55 of 355 functions (15.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    79 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  ConsoleApplication1.vcxproj -> C:\Users\kocak\OneDrive\Masaüstü\MysqlTestSon\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
